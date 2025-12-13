@@ -1,0 +1,23 @@
+# ビルド成果物
+bin/
+obj/
+.vs/
+.vscode/
+
+# ランタイムファイル
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# モデルチェックポイント
+model_checkpoint.dat
+
+# ユーザー設定
+*.user
+*.suo
+*.sln.docstates
+
+# OS固有
+.DS_Store
+Thumbs.db
